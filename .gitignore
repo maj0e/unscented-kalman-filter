@@ -1,0 +1,9 @@
+build
+.directory 
+*.swp
+*-swp
+*.swx
+*.sync-conflict-*
+*.o
+*.a
+*.so
